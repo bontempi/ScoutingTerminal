@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">ScoutingTerminal</string>
+    <string name="robot_height_hint">Enter robot height</string>
+    <string name="t_height">Height</string>
+    <string name="t_weight">Weight</string>
+    <string name="t_team">Team</string>
+    <string-array name="array_name">
+        <item>Team 101</item>
+        <item>Team 229</item>
+        <item>Team 364</item>
+        <item>Team 421</item>
+        <item>Team 539</item>
+        <item>Team 668</item>
+        <item>Team 714</item>
+        <item>Team 840</item>
+        <item>Team 978</item>
+    </string-array>
+    <string-array name="array_speed">
+        <item>Slowest</item>
+        <item>Slow</item>
+        <item>Slower than Average</item>
+        <item>Average</item>
+        <item>Faster than Average</item>
+        <item>Fast</item>
+        <item>Fastest</item>
+    </string-array>
+    <string name="t_speed">Speed</string>
+    <string name="t_send">Send</string>
+    <string name="t_msg_success">Message Sent Successfully!</string>
+</resources>
